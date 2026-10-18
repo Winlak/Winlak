@@ -39,18 +39,18 @@
 ### Проекты
 
 <p>
-  <a href="https://github.com/Winlak/search-ranking-quality-analysis"><img src="assets/search-ranking-quality-analysis.svg" width="49%" alt="Качество поиска — код и отчёт" /></a>
-  <a href="https://github.com/Winlak/carsharing-ab-test-analysis"><img src="assets/carsharing-ab-test-analysis.svg" width="49%" alt="A/B-тест бронирования — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/search-ranking-quality-analysis"><img src="assets/search-ranking-quality-analysis.svg" width="410" alt="Качество поиска — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-ab-test-analysis"><img src="assets/carsharing-ab-test-analysis.svg" width="410" alt="A/B-тест бронирования — код и отчёт" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/Winlak/carsharing-activation-funnel-analysis"><img src="assets/carsharing-activation-funnel-analysis.svg" width="49%" alt="Воронка первой поездки — код и отчёт" /></a>
-  <a href="https://github.com/Winlak/search-zero-results-investigation"><img src="assets/search-zero-results-investigation.svg" width="49%" alt="Пустая поисковая выдача — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-activation-funnel-analysis"><img src="assets/carsharing-activation-funnel-analysis.svg" width="410" alt="Воронка первой поездки — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/search-zero-results-investigation"><img src="assets/search-zero-results-investigation.svg" width="410" alt="Пустая поисковая выдача — код и отчёт" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/Winlak/carsharing-retention-cohort-analysis"><img src="assets/carsharing-retention-cohort-analysis.svg" width="49%" alt="Удержание пользователей — код и отчёт" /></a>
-  <a href="https://github.com/Winlak/carsharing-fleet-utilization-analysis"><img src="assets/carsharing-fleet-utilization-analysis.svg" width="49%" alt="Загрузка автопарка — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-retention-cohort-analysis"><img src="assets/carsharing-retention-cohort-analysis.svg" width="410" alt="Удержание пользователей — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-fleet-utilization-analysis"><img src="assets/carsharing-fleet-utilization-analysis.svg" width="410" alt="Загрузка автопарка — код и отчёт" /></a>
 </p>
 
 Это учебные исследования на сгенерированных данных. Генераторы и правила
