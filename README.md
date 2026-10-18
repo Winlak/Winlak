@@ -1,46 +1,57 @@
-# Никита Самыловский · Аналитик данных
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Никита Самыловский — аналитик данных. SQL, Python, продуктовая аналитика." />
+</p>
 
-SQL, Python и продуктовая аналитика. Здесь собираю исследования о пользовательских
-воронках, экспериментах и качестве поиска: от подготовки данных до выводов и плана
-следующих проверок.
+<p align="center">
+  <a href="https://t.me/neo_ybt">Telegram</a> &nbsp; · &nbsp;
+  <a href="mailto:nikitasamilovsky@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Winlak?tab=repositories">Все репозитории</a>
+</p>
 
-## Избранные проекты
+### Обо мне
 
-### [A/B-тест подсказки при бронировании](https://github.com/Winlak/carsharing-ab-test-analysis)
+Я Никита, стажёр-аналитик в Яндексе и студент второго курса ПМИ НИУ ВШЭ.
+До этого три месяца работал Junior ML Engineer. Пишу на Python и SQL, разбираю
+продуктовые метрики и экспериментальные данные.
 
-SQL-витрина из событий и анализ эксперимента на 60 000 синтетических пользователей.
-Проверяю конверсию, SRM, доверительные интервалы и защитные метрики — отмены и время
-до бронирования.
-[Читать отчёт](https://github.com/Winlak/carsharing-ab-test-analysis/blob/main/reports/analysis_report.md).
+Здесь собраны мои проекты по A/B-тестам, воронкам, удержанию и качеству поиска.
+В каждом есть код расчётов, описание данных и отчёт с результатами.
 
-### [Воронка первой поездки](https://github.com/Winlak/carsharing-activation-funnel-analysis)
+### Инструменты
 
-Путь 12 000 синтетических пользователей от регистрации до первой поездки.
-Разделяю самый слабый переход и наибольшую потерю пользователей, сравниваю сегменты
-и формулирую гипотезы для экспериментов.
-[Читать отчёт](https://github.com/Winlak/carsharing-activation-funnel-analysis/blob/main/reports/analysis_report.md).
+<p>
+  <img src="assets/python.svg" height="36" alt="Python" />
+  <img src="assets/sql.svg" height="36" alt="SQL" />
+  <img src="assets/pandas.svg" height="36" alt="pandas" />
+  <img src="assets/numpy.svg" height="36" alt="NumPy" />
+  <img src="assets/scipy.svg" height="36" alt="SciPy" />
+  <img src="assets/postgresql.svg" height="36" alt="PostgreSQL" />
+  <img src="assets/duckdb.svg" height="36" alt="DuckDB" />
+  <img src="assets/jupyter.svg" height="36" alt="Jupyter" />
+  <img src="assets/matplotlib.svg" height="36" alt="Matplotlib" />
+  <img src="assets/git.svg" height="36" alt="Git" />
+</p>
 
-### [Качество поискового ранжирования](https://github.com/Winlak/search-ranking-quality-analysis)
+**Что делаю:** готовлю выборки и витрины, проверяю данные, считаю метрики,
+сравниваю группы и ищу причины изменений. Работаю с воронками, когортами,
+доверительными интервалами и поисковыми метриками.
 
-Сравнение двух вариантов выдачи на 12 000 синтетических запросов: NDCG@10, MRR@10,
-парные оценки и проверка отдельных сегментов. Показываю, почему рост средней
-метрики ещё не означает улучшение для всех пользователей.
-[Читать отчёт](https://github.com/Winlak/search-ranking-quality-analysis/blob/main/reports/analysis_report.md).
+### Проекты
 
-### [Рост доли пустой выдачи](https://github.com/Winlak/search-zero-results-investigation)
+<p>
+  <a href="https://github.com/Winlak/search-ranking-quality-analysis"><img src="assets/search-ranking-quality-analysis.svg" width="49%" alt="Качество поиска — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-ab-test-analysis"><img src="assets/carsharing-ab-test-analysis.svg" width="49%" alt="A/B-тест бронирования — код и отчёт" /></a>
+</p>
 
-На 80 000 синтетических сессий раскладываю изменение метрики на смену состава
-трафика и изменения внутри сегментов. Сверяю SQL с pandas и отделяю наблюдения
-от причинных выводов.
-[Читать отчёт](https://github.com/Winlak/search-zero-results-investigation/blob/main/reports/analysis_report.md).
+<p>
+  <a href="https://github.com/Winlak/carsharing-activation-funnel-analysis"><img src="assets/carsharing-activation-funnel-analysis.svg" width="49%" alt="Воронка первой поездки — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/search-zero-results-investigation"><img src="assets/search-zero-results-investigation.svg" width="49%" alt="Пустая поисковая выдача — код и отчёт" /></a>
+</p>
 
-## Инструменты и подход
+<p>
+  <a href="https://github.com/Winlak/carsharing-retention-cohort-analysis"><img src="assets/carsharing-retention-cohort-analysis.svg" width="49%" alt="Удержание пользователей — код и отчёт" /></a>
+  <a href="https://github.com/Winlak/carsharing-fleet-utilization-analysis"><img src="assets/carsharing-fleet-utilization-analysis.svg" width="49%" alt="Загрузка автопарка — код и отчёт" /></a>
+</p>
 
-- SQL: CTE, оконные функции, JOIN, агрегации; расчёты проектов выполняются в DuckDB.
-- Python: pandas, NumPy, SciPy, matplotlib.
-- Аналитика: конверсии, воронки, когорты, A/B-тесты, сегментация и поисковые метрики.
-- Проверки: качество исходных данных, корректность расчётов и воспроизводимость.
-
-Все четыре проекта — самостоятельные учебные исследования на синтетических
-данных. Это не данные работодателей и не коммерческие достижения. Генераторы,
-расчёты, ограничения и отчёты доступны в репозиториях.
+Это учебные исследования на сгенерированных данных. Генераторы и правила
+расчёта открыты; результаты относятся к этим наборам данных.
