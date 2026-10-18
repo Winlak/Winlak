@@ -10,6 +10,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-neo__ybt-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/neo_ybt)
 [![Email](https://img.shields.io/badge/Email-написать-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikitasamilovsky@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Samylovsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-samylovsky/)
+
 ## Инструменты
 
 **Данные и расчёты**
