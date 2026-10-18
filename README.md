@@ -12,25 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Samylovsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-samylovsky/)
 
-## Инструменты
-
-**Данные и расчёты**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-**Среда и визуализация**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-365C88?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-SQL: CTE, оконные функции, объединения таблиц, подготовка витрин. Аналитика: A/B-тесты, доверительные интервалы, конверсия, когорты, retention, NDCG и MRR.
-
 ## Проекты
 
 | Проект | Что разбирал | Результаты |
@@ -51,3 +32,22 @@ SQL: CTE, оконные функции, объединения таблиц, п
 [![Воронка первой поездки: от регистрации до завершённой поездки](https://raw.githubusercontent.com/Winlak/carsharing-activation-funnel-analysis/main/reports/figures/funnel_overall.png)](https://github.com/Winlak/carsharing-activation-funnel-analysis/blob/main/reports/analysis_report.md)
 
 В [отчёте](https://github.com/Winlak/carsharing-activation-funnel-analysis/blob/main/reports/analysis_report.md) отдельно разобрал абсолютные потери, конверсию между шагами и различия по сегментам.
+
+## Инструменты
+
+**Данные и расчёты**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Среда и визуализация**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-365C88?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+SQL: CTE, оконные функции, объединения таблиц, подготовка витрин. Аналитика: A/B-тесты, доверительные интервалы, конверсия, когорты, retention, NDCG и MRR.
